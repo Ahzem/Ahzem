@@ -10,27 +10,20 @@
 <p align="center">🌟 Aspiring to be more than just a name on the internet – I want to be a brand that radiates uniqueness! 🚀</p>
 <p align="center"></p>
 
-## 
+## Reach Me on..............
+
 
 <p align="center">
-  <a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="https://www.researchgate.net/profile/Alwin_Wang" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-  <a href="https://orcid.org/0000-0003-4883-2917" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-  <a href="https://stackexchange.com/users/4446338/alwin" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/Ahzem/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-@ahzem-0072b1?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/_ahzem_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-@ahzem-C13584?style=flat&logo=Instagram&logoColor=white"></a>
+  <a href="https://twitter.com/intent/follow?screen_name=_ahzem_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-@ahzem-00acee?style=flat&logo=Twitter&logoColor=white"></a>
+  <a href="https://github.com/ahzem" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/followers/Ahzem?label=Follow&style=social"></a>
 </p>
 
-##  
-
 <p align="center">
-  <a href="" target="_blank"><img alt="" src=""></a>
-  <a href="" target="_blank"><img alt="" src=""></a>
-  <a href="" target="_blank"><img alt="" src=""></a>
-  <a href="" target="_blank"><img alt="" src=""></a>
-  <a href="" target="_blank"><img alt="" src=""></a>
-  <a href="" target="_blank"><img alt="" src=""></a>
-  <a href="" target="_blank"><img alt="" src=""></a>
+  <a href="mailto:muhammadhahzem1422@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
+  <a href="https://t.me/mfm_ahzem target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/21335921/ahzem?tab=profile" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/-Stack_Over_Flow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&"></a>
 </p>
 
 <p align="center">
@@ -42,8 +35,6 @@
   <a href="" target="_blank"><img alt="" src=""></a>
   <a href="" target="_blank"><img alt="" src=""></a>
 </p>
-
-##  
 
 <p align="center">
   <a><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"></a>
@@ -74,16 +65,6 @@
 </p>
 
 
-## Reach Me on..............
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Ahzem/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/mfm_ahzem "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_ahzem_ "Follow on Twitter")
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_ahzem_/ "Follow on Instagram")
-[![StackOverflow Badge](https://img.shields.io/badge/-Stack_Over_Flow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/21335921/ahzem?tab=profile)
-![GitHub followers](https://img.shields.io/github/followers/Ahzem?label=Follow&style=social)
-
-Or you can send me an Mail at [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:muhammadhahzem1422@gmail.com "Connect via Mail") . I'd love to hear from you! 😄
 
 ### Profile Visit
 
