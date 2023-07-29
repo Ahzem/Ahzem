@@ -1,12 +1,13 @@
 # Hi there, I'm Ahzem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a><img align="center" src="https://github.com/Ahzem/AboutMe/assets/123859613/4394000b-0a5d-4c56-b612-7ab298485dd5" width="480px" height="270px"></a>
+<a><img align="right" src="https://github.com/Ahzem/AboutMe/assets/123859613/4394000b-0a5d-4c56-b612-7ab298485dd5" width="480px" height="270px"></a>
 
 I'm a passionate IT student from the breathtaking village of Bandarawela. 🏞️
 
 ## 🙋‍♂️ About Me
 
-- 🎨 UI/UX Design enthusiast 🎨 | 🐍 Python Programming aficionado 🐍
+- 🎨 UI/UX Design enthusiast 🎨
+- 🐍 Python Programming aficionado 🐍
 - 🚀 On a thrilling journey to master the art of creating user-friendly interfaces and writing powerful Python code. 💻
 - 💡 Insatiably curious and endlessly creative – I'm all about embracing the extraordinary! 🌟
 - 🔮 Imagining new possibilities and making them come alive through sleek designs and smart algorithms. 🌈
