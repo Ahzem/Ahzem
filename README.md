@@ -45,7 +45,7 @@ Here are some of the projects that I'm proud of:
 
 You can find me on these platforms:
 
-![LinkedIn](https://twitter.com/mrlalitkumawat1)
+[![LinkedIn](https://icons8.com/icon/xuvGCOXi8Wyg/linkedin)](https://linkedin.com/in/ahzem/)
 ![Twitter](https://img.icons8.com/plasticine/100/000000/twitter.png)
 ![Instagram](https://www.linkedin.com/in/kumawatlalit007/)
 ![YouTube](https://img.icons8.com/plasticine/100/000000/instagram-new.png)
