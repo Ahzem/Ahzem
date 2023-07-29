@@ -6,7 +6,7 @@ I'm a passionate IT student from the breathtaking village of Bandarawela. 🏞�
 
 ## 🙋‍♂️ About Me
 
-#### - 🎨 UI/UX Design enthusiast 🎨
+- 🎨 UI/UX Design enthusiast 🎨
 - 🐍 Python Programming aficionado 🐍
 - 🚀 On a thrilling journey to master the art of creating user-friendly interfaces and writing powerful Python code. 💻
 - 💡 Insatiably curious and endlessly creative – I'm all about embracing the extraordinary! 🌟
@@ -14,6 +14,12 @@ I'm a passionate IT student from the breathtaking village of Bandarawela. 🏞�
 - 🌟 Aspiring to be more than just a name on the internet – I want to be a brand that radiates uniqueness! 🚀
 
 ## 🛠 Skills
+
+<img src="^1^" alt="Python">
+<img src="^2^" alt="HTML">
+<img src="^3^" alt="CSS">
+<img src="^4^" alt="Figma">
+<img src="^5^" alt="Microsoft Office 365">
 
 !Python 
 !JavaScript 
