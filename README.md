@@ -36,7 +36,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Ahzem/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/mfm_ahzem "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Ahzem "Follow on Twitter")
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_ahzem_ "Follow on Twitter")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_ahzem_/ "Follow on Instagram")
 [![StackOverflow Badge](https://img.shields.io/badge/-Stack_Over_Flow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/21335921/ahzem?tab=profile)
 ![GitHub followers](https://img.shields.io/github/followers/Ahzem?label=Follow&style=social)
