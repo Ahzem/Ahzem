@@ -39,10 +39,13 @@ Here are some of the projects that I'm proud of:
 
 You can find me on these platforms:
 
-![[LinkedIn](https://github.com/Ahzem/AboutMe/assets/123859613/c3954071-5d33-4dbb-99f4-c67ff8480165)](https://linkedin.com/in/ahzem/)
-![[Twitter](https://img.icons8.com/plasticine/100/000000/twitter.png)](https://twitter.com/_ahzem_)
-![[Instagram](https://www.linkedin.com/in/kumawatlalit007/)](https://www.instagram.com/_ahzem_)
-![[YouTube](https://img.icons8.com/plasticine/100/000000/instagram-new.png)](https://www.youtube.com/channel/UC4vj-4qMzLH-XNyu8si7ZYg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_ahzem_?label=Follow)](https://twitter.com/intent/follow?screen_name=Ahzem)
+[![Linkedin: Ahzem](https://img.shields.io/badge/-ahzem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahzem/)](https://www.linkedin.com/in/ahzem/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+
 
 Or you can send me an email at muhammadhahzem1422@hotmail.com . I'd love to hear from you! 😄
 
