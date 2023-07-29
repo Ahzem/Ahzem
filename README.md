@@ -2,10 +2,7 @@
 
 <a><img align="right" src="https://github.com/Ahzem/AboutMe/assets/123859613/4394000b-0a5d-4c56-b612-7ab298485dd5" width="480px" height="270px"></a>
 
-I'm a passionate IT student from the breathtaking village of Bandarawela. 🏞️
-
-## 🙋‍♂️ About Me
-
+### About Me
 - 🎨 UI/UX Design enthusiast 🎨
 - 🐍 Python Programming aficionado 🐍
 - 🚀 On a thrilling journey to master the art of creating user-friendly interfaces and writing powerful Python code. 💻
