@@ -43,6 +43,9 @@
 
 Or you can send me an Mail at [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:muhammadhahzem1422@gmail.com "Connect via Mail") . I'd love to hear from you! 😄
 
+### Profile Visit
+
+<a href="https://github.com/ahzem" target="_blank"><img alt="ahzem" src="https://badges.pufler.dev/visits/ahzem/ahzem?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 
 ## Git Stats
 
