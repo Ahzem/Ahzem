@@ -41,9 +41,9 @@ You can find me on these platforms:
 
 ![[LinkedIn](![icons8-linkedin-logo-48](https://github.com/Ahzem/AboutMe/assets/123859613/c3954071-5d33-4dbb-99f4-c67ff8480165)
 )](https://linkedin.com/in/ahzem/)
-![Twitter](https://img.icons8.com/plasticine/100/000000/twitter.png)
-![Instagram](https://www.linkedin.com/in/kumawatlalit007/)
-![YouTube](https://img.icons8.com/plasticine/100/000000/instagram-new.png)
+![[Twitter](https://img.icons8.com/plasticine/100/000000/twitter.png)](https://twitter.com/_ahzem_)
+![[Instagram](https://www.linkedin.com/in/kumawatlalit007/)](https://www.instagram.com/_ahzem_)
+![[YouTube](https://img.icons8.com/plasticine/100/000000/instagram-new.png)](https://www.youtube.com/channel/UC4vj-4qMzLH-XNyu8si7ZYg)
 
 Or you can send me an email at muhammadhahzem1422@hotmail.com . I'd love to hear from you! 😄
 
