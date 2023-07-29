@@ -1,14 +1,14 @@
-# Hi there, I'm Ahzem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Hi there, I'm Ahzem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>
 
-<a><img align="right" src="https://github.com/Ahzem/AboutMe/assets/123859613/4394000b-0a5d-4c56-b612-7ab298485dd5" width="480px" height="270px"></a>
+<a><img align="center" src="https://github.com/Ahzem/AboutMe/assets/123859613/4394000b-0a5d-4c56-b612-7ab298485dd5" width="960px" height="540px"></a>
 
-### About Me
-- 🎨 UI/UX Design enthusiast 🎨
-- 🐍 Python Programming aficionado 🐍
-- 🚀 On a thrilling journey to master the art of creating user-friendly interfaces and writing powerful Python code. 💻
-- 💡 Insatiably curious and endlessly creative – I'm all about embracing the extraordinary! 🌟
-- 🔮 Imagining new possibilities and making them come alive through sleek designs and smart algorithms. 🌈
-- 🌟 Aspiring to be more than just a name on the internet – I want to be a brand that radiates uniqueness! 🚀
+<p align="center">🎨 UI/UX Design enthusiast 🎨</p>
+<p align="center">🐍 Python Programming aficionado 🐍</p>
+<p align="center">🚀 On a thrilling journey to master the art of creating user-friendly interfaces and writing powerful Python code. 💻</p>
+<p align="center">💡 Insatiably curious and endlessly creative – I'm all about embracing the extraordinary! 🌟</p>
+<p align="center">🔮 Imagining new possibilities and making them come alive through sleek designs and smart algorithms. 🌈</p>
+<p align="center">🌟 Aspiring to be more than just a name on the internet – I want to be a brand that radiates uniqueness! 🚀</p>
+<p align="center"></p>
 
 ## 🛠 Skills
 
