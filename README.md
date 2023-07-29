@@ -1,4 +1,4 @@
-# Hi there, I'm Ahzem 👋
+# Hi there, I'm Ahzem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ![Screenshot 2023-07-29 114724 - Copy](https://github.com/Ahzem/AboutMe/assets/123859613/6af021cd-4d8a-45b8-89d1-a076bfe9f21b)
 
