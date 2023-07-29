@@ -45,7 +45,8 @@ Here are some of the projects that I'm proud of:
 
 You can find me on these platforms:
 
-[![LinkedIn](https://icons8.com/icon/xuvGCOXi8Wyg/linkedin)](https://linkedin.com/in/ahzem/)
+[![LinkedIn](![icons8-linkedin-logo-48](https://github.com/Ahzem/AboutMe/assets/123859613/c3954071-5d33-4dbb-99f4-c67ff8480165)
+)](https://linkedin.com/in/ahzem/)
 ![Twitter](https://img.icons8.com/plasticine/100/000000/twitter.png)
 ![Instagram](https://www.linkedin.com/in/kumawatlalit007/)
 ![YouTube](https://img.icons8.com/plasticine/100/000000/instagram-new.png)
