@@ -39,7 +39,7 @@ Here are some of the projects that I'm proud of:
 
 You can find me on these platforms:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_ahzem_?label=Follow)](https://twitter.com/intent/follow?screen_name=Ahzem)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_ahzem_?label=Follow)](https://twitter.com/intent/follow?screen_name=_ahzem_)
 [![Linkedin: Ahzem](https://img.shields.io/badge/-ahzem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahzem/)](https://www.linkedin.com/in/ahzem/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
