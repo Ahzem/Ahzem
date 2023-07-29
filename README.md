@@ -15,12 +15,6 @@ I'm a passionate IT student from the breathtaking village of Bandarawela. 🏞�
 
 ## 🛠 Skills
 
-<img src="^1^" alt="Python">
-<img src="^2^" alt="HTML">
-<img src="^3^" alt="CSS">
-<img src="^4^" alt="Figma">
-<img src="^5^" alt="Microsoft Office 365">
-
 !Python 
 !JavaScript 
 !C++ 
@@ -48,9 +42,6 @@ You can find me on these platforms:
 [![Twitter Follow](https://img.shields.io/twitter/follow/_ahzem_?label=Follow)](https://twitter.com/intent/follow?screen_name=_ahzem_)
 [![Linkedin: Ahzem](https://img.shields.io/badge/-ahzem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahzem/)](https://www.linkedin.com/in/ahzem/)
 ![GitHub followers](https://img.shields.io/github/followers/Ahzem?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-
 
 Or you can send me an email at muhammadhahzem1422@hotmail.com . I'd love to hear from you! 😄
 
