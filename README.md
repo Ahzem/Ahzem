@@ -4,6 +4,12 @@
 
 I'm a passionate IT student from the breathtaking village of Bandarawela. 🏞️
 
+[![Gmail Badge](https://img.shields.io/badge/-muhammadhahzem1422@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:muhammadhahzem1422@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Ahzem-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Ahzem/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@mfm_ahzem-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/mfm_ahzem "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@_ahzem_-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Ahzem "Follow on Twitter")
+![GitHub followers](https://img.shields.io/github/followers/Ahzem?label=Follow&style=social)
+
 ## 🙋‍♂️ About Me
 
 - 🎨 UI/UX Design enthusiast 🎨
@@ -35,42 +41,6 @@ I'm a passionate IT student from the breathtaking village of Bandarawela. 🏞�
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 
-## 🤝 Contact Me
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/_ahzem_?label=Follow)](https://twitter.com/intent/follow?screen_name=_ahzem_)
-[![Linkedin: Ahzem](https://img.shields.io/badge/-ahzem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahzem/)](https://www.linkedin.com/in/ahzem/)
-![GitHub followers](https://img.shields.io/github/followers/Ahzem?label=Follow&style=social)
-
 Or you can send me an email at muhammadhahzem1422@hotmail.com . I'd love to hear from you! 😄
 
-## 🎵 Fun Fact
-
-I can play the guitar and sing along. Here is a snippet of me performing a song:
-
-```python
-# Lyrics of the song
-lyrics = """
-I'm a believer, I couldn't leave her if I tried
-I thought love was more or less a given thing
-Seems the more I gave the less I got
-What's the use in tryin'?
-All you get is pain
-When I needed sunshine I got rain
-"""
-
-# Chords of the song
-chords = ["G", "D", "C", "G"]
-
-# Function to play the song
-def play_song(lyrics, chords):
-  # Split the lyrics into lines
-  lines = lyrics.split("\n")
-  # Loop through each line
-  for line in lines:
-    # Print the line with a chord
-    print(f"{chords.pop(0)}: {line}")
-    # Append the chord to the end of the list
-    chords.append(chords[-1])
-
-# Call the function
-play_song(lyrics, chords)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahzem&show_icons=true&count_private=true&theme=gruvbox" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzem&layout=compact&count_private=true&theme=gruvbox" />
