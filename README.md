@@ -1,6 +1,6 @@
 # Hi there, I'm Ahzem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>
 
-<a><img align="center" src="https://github.com/Ahzem/Ahzem/assets/123859613/8d58ef82-2acf-4c04-9db3-5f3be2f3cc49"></a>
+<a><img align="center" src="https://github.com/Ahzem/Ahzem/assets/123859613/8d58ef82-2acf-4c04-9db3-5f3be2f3cc49" width=1000 height=350></a>
 
 ##  
 
