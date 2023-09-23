@@ -1,8 +1,10 @@
+
+https://github.com/Ahzem/Ahzem/assets/123859613/b12583cd-2d45-450d-ba20-8852db6cc629
 # Hi there, I'm Ahzem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>
 
-
-https://github.com/Ahzem/Ahzem/assets/123859613/5f1d06a4-f78d-44dd-ab75-d45a69657f4e
-
+<video controls autoplay loop>
+  <source src="https://github.com/Ahzem/Ahzem/assets/123859613/8181cd01-22c3-4f22-b052-5d7ae5e861b0" type="video/mp4">
+</video>
 
 
 ##  
