@@ -92,11 +92,30 @@
 <div align="center">
 <a href="https://github.com/ahzem/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahzem&theme=onedark&row=2&column=3"></a>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=ahzem&theme=blue-green" /><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzem&theme=blue-green" />
-</div>
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/ahzem">
+                <img src="https://github-readme-stats.vercel.app/api?username=ahzem&theme=tokyonight" alt="My GitHub Stats"/>
+            </a>
+        </td>
+        <td rowspan="2" align="center">
+            <a href="https://github.com/ahzem#gh-dark-mode-only">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzem&theme=tokyonight" alt="My GitHub Stats"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/ahzem#gh-dark-mode-only">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahzem&theme=tokyonight"/>
+            </a>
+        </td>
+    </tr>
+</table>
 
 ## 
+
 
 <p align="center">Follow me on ⬇️ </p>
 
@@ -120,6 +139,7 @@
   <a href="https://t.me/mfm_ahzem" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/21335921/ahzem?tab=profile" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
+
 
 <footer>
                     <p align="center">Copyright © 2023; Ahzem</p>
