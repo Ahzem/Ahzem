@@ -26,7 +26,7 @@
         <td>
             <table align="center">
                 <tr>
-                    <td>
+                    <td align="center">
                         <a href="https://github.com/ahzem?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
                         <a href="https://github.com/ahzem" target="_blank"><img alt="ahzem" src="https://badges.pufler.dev/visits/ahzem/ahzem?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
                         <a href="https://github.com/ahzem/ahzem" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ahzem/ahzem?label=profile%20updated&style=flat-square"></a>
@@ -111,7 +111,7 @@
 ## Git Stats
 
 <div align="center">
-<a href="https://github.com/ahzem/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahzem&theme=tokyonight&row=1&column=1"></a>
+<a href="https://github.com/ahzem/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahzem&theme=tokyonight&row=1&column=6"></a>
 <br><br>
 <table>
     <tr>
