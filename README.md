@@ -4,24 +4,39 @@
 
 ##  
 
-<div align="center">
-    <p>🎨 UI/UX Design enthusiast 🎨</p>
-    <p>🐍 Python Programming aficionado 🐍</p>
-    <p>🚀 On a thrilling journey to master the art of creating user-friendly interfaces and writing powerful Python code. 💻</p>
-    <p>💡 Insatiably curious and endlessly creative – I'm all about embracing the extraordinary! 🌟</p>
-    <p>🔮 Imagining new possibilities and making them come alive through sleek designs and smart algorithms. 🌈</p>
-    <p>🌟 Aspiring to be more than just a name on the internet – I want to be a brand that radiates uniqueness! 🚀</p>
-</div>
+<table align="center">
+    <tr>
+        <td>
+            <table align="center">
+                <tr><td align="center"><p>🎨 UI/UX Design enthusiast 🎨</p></td></tr>
+                <tr><td align="center"><p>🐍 Python Programming aficionado 🐍</p></td></tr>
+                <tr><td align="center"><p>🚀 On a thrilling journey to master the art of creating user-friendly interfaces and writing powerful Python code. 💻</p></td></tr>
+                <tr><td align="center"><p>💡 Insatiably curious and endlessly creative – I'm all about embracing the extraordinary! 🌟</p></td></tr>
+                <tr><td align="center"><p>🔮 Imagining new possibilities and making them come alive through sleek designs and smart algorithms. 🌈</p></td></tr>
+                <tr><td align="center"><p>🌟 Aspiring to be more than just a name on the internet – I want to be a brand that radiates uniqueness! 🚀</p></td></tr>
+            </table>
+        </td>
+    </tr>
+</table>
 
 ##  
 
-<div align="center">
-    <a href="https://github.com/ahzem?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/ahzem" target="_blank"><img alt="ahzem" src="https://badges.pufler.dev/visits/ahzem/ahzem?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/ahzem/ahzem" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ahzem/ahzem?label=profile%20updated&style=flat-square"></a>
-    <a href="https://github.com/ahzem" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/followers/Ahzem?label=Follow&style=social"></a>
-</div>
-
+<table align="center">
+    <tr>
+        <td>
+            <table align="center">
+                <tr>
+                    <td>
+                        <a href="https://github.com/ahzem?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+                        <a href="https://github.com/ahzem" target="_blank"><img alt="ahzem" src="https://badges.pufler.dev/visits/ahzem/ahzem?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+                        <a href="https://github.com/ahzem/ahzem" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ahzem/ahzem?label=profile%20updated&style=flat-square"></a>
+                        <a href="https://github.com/ahzem" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/followers/Ahzem?label=Follow&style=social"></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
 
 ##  Skills
 
@@ -37,17 +52,17 @@
                 <td>
                       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
                       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-                      <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
+                      <img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
                 </td>
                 <td>
-                      <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-                      <img src="https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-                      <img src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
-                      <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+                      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+                      <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+                      <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+                      <img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
                 </td>
                 <td>
-                      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-                      <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+                      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+                      <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
                       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
                 </td>
                 <td>           
@@ -57,9 +72,9 @@
                       <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
                       <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
                       <img alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+                      <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
                 </td>
                 <td>
-                      <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
                       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
                       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
                       <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
@@ -79,66 +94,66 @@
 
 ##  
 
-<p align="center" style="Bold">Learning Path</p>
-
-<p align="center">
-  <a><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"></a>
-</p>
+<table align="center">
+    <tr>
+        <th>Learning Platforms</th>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
+            <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+            <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white">
+        </td>
+    </tr>
+    
+</table>
 
 ## Git Stats
 
 <div align="center">
-<a href="https://github.com/ahzem/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahzem&theme=onedark&row=2&column=3"></a>
+<a href="https://github.com/ahzem/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahzem&theme=tokyonight&row=1&column=1"></a>
 <br><br>
 <table>
     <tr>
-        <td align="center">
+        <th colspan="3">My Git States</th>
+        <td>
             <a href="https://github.com/ahzem">
                 <img src="https://github-readme-stats.vercel.app/api?username=ahzem&theme=tokyonight" alt="My GitHub Stats"/>
-            </a>
-        </td>
-        <td rowspan="2" align="center">
+            </a><br>
             <a href="https://github.com/ahzem#gh-dark-mode-only">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzem&theme=tokyonight" alt="My GitHub Stats"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
+            </a><br>
             <a href="https://github.com/ahzem#gh-dark-mode-only">
                 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahzem&theme=tokyonight"/>
             </a>
         </td>
     </tr>
 </table>
-
+    
 ## 
 
 
 <p align="center">Follow me on ⬇️ </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/Ahzem/" target="_blank" class="follow-button"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.facebook.com/mfm.ahzem"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/_ahzem_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
-  <a href="https://twitter.com/intent/follow?screen_name=_ahzem_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.pinterest.com/ahzem1422/" target="_blank"><img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
-  <a href="https://www.sololearn.com/profile/28196391" target="_blank"><img alt="SoloLearn" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/ahzem?hr_r=1" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  <a href="https://medium.com/@ahzem" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="" target="_blank"><img alt="" src=""></a>
+    <a href="https://www.linkedin.com/in/Ahzem/" target="_blank" class="follow-button"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"></a>
+    <a href="https://www.facebook.com/mfm.ahzem"><img width="48" height="48" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/></a>
+    <a href="https://www.instagram.com/_ahzem_" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
+    <a href="https://twitter.com/intent/follow?screen_name=_ahzem_" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/></a>
+    <a href="https://www.pinterest.com/ahzem1422/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/pinterest.png" alt="pinterest"/></a>
+    <a href="https://medium.com/@ahzem" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="medium-logo"/></a>
+    <a href="https://www.youtube.com/@ahzemkingster" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="youtube-play"/></a>
+    <a href="https://www.behance.net/ahzem" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/behance.png" alt="behance"/></a>
   
 </div>
 
 <p align="center"> or connect with </p>
 
-<p align="center">
-  <a href="mailto:ahzemkingster1422@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/mfm_ahzem" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/21335921/ahzem?tab=profile" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-</p>
+<div align="center">
+    <a href="mailto:ahzemkingster1422@gmail.com" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail"/></a>
+    <a href="https://t.me/mfm_ahzem" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="telegram-app--v1"/></a>
+    <a href="https://stackoverflow.com/users/21335921/ahzem?tab=profile" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="stackoverflow"/></a>
+</div>
 
 
 <footer>
