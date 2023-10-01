@@ -7,7 +7,7 @@
 <table align="center">
     <tr>
         <td>
-            <table align="center">
+            <table bgcolor="red" align="center">
                 <tr><td align="center"><p>🎨 UI/UX Design enthusiast 🎨</p></td></tr>
                 <tr><td align="center"><p>🐍 Python Programming aficionado 🐍</p></td></tr>
                 <tr><td align="center"><p>🚀 On a thrilling journey to master the art of creating user-friendly interfaces and writing powerful Python code. 💻</p></td></tr>
@@ -19,7 +19,7 @@
     </tr>
 </table>
 
-##  
+<br><br>
 
 <table align="center">
     <tr>
@@ -38,7 +38,8 @@
     </tr>
 </table>
 
-##  Skills
+<br><br>
+<h1>Skills</h1>
 
 <div align="center">
     <table>
@@ -92,7 +93,7 @@
     </table>
 </div>
 
-##  
+<br><br>
 
 <table align="center">
     <tr>
@@ -108,7 +109,8 @@
     
 </table>
 
-## Git Stats
+<br><br>
+<h1>Git Stats</h1>
 
 <div align="center">
 <a href="https://github.com/ahzem/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahzem&theme=tokyonight&row=1&column=6"></a>
@@ -130,7 +132,7 @@
     </tr>
 </table>
     
-## 
+<br><br>
 
 
 <p align="center">Follow me on ⬇️ </p>
@@ -144,7 +146,6 @@
     <a href="https://medium.com/@ahzem" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="medium-logo"/></a>
     <a href="https://www.youtube.com/@ahzemkingster" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="youtube-play"/></a>
     <a href="https://www.behance.net/ahzem" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/behance.png" alt="behance"/></a>
-  
 </div>
 
 <p align="center"> or connect with </p>
