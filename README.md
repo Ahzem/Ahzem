@@ -119,15 +119,16 @@
     <tr>
         <th colspan="3">My Git States</th>
         <td>
+            <a href="https://github.com/ahzem#gh-dark-mode-only">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahzem&theme=tokyonight"/>
+            </a>
             <a href="https://github.com/ahzem">
                 <img src="https://github-readme-stats.vercel.app/api?username=ahzem&theme=tokyonight" alt="My GitHub Stats"/>
             </a><br>
             <a href="https://github.com/ahzem#gh-dark-mode-only">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzem&theme=tokyonight" alt="My GitHub Stats"/>
-            </a><br>
-            <a href="https://github.com/ahzem#gh-dark-mode-only">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahzem&theme=tokyonight"/>
             </a>
+            <img src="https://github.com/Ahzem/Ahzem/assets/123859613/9521fa34-a2c8-4643-ade2-a53a804204fd">
         </td>
     </tr>
 </table>
