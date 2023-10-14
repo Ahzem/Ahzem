@@ -149,6 +149,8 @@
     <a href="https://medium.com/@ahzem" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="medium-logo"/></a>
     <a href="https://www.youtube.com/@ahzemkingster" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="youtube-play"/></a>
     <a href="https://www.behance.net/ahzem" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/behance.png" alt="behance"/></a>
+    <a href="https://dev.to/ahzem" target="_blank"><img width="48" height="48" src="https://img.icons8.com/windows/32/000000/dev.png" alt="dev"/></a>
+    <a href="https://tree-nation.com/trees/view/5253803" target="_blank"><img width="48" height="48" src="https://growtrees.b-cdn.net/images/treenation3.png" alt="tree"/></a>
 </div>
 
 <p align="center"> or connect with </p>
