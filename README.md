@@ -112,10 +112,12 @@
 <br><br>
 <h1>Git Stats</h1>
 
-<div align="center">
-<a href="https://github.com/ahzem/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahzem&theme=tokyonight&row=1&column=6"></a>
-<br><br>
 <table>
+    <tr>
+        <td align="center" colspan="4">
+            <a href="https://github.com/ahzem/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahzem&theme=tokyonight&row=1&column=6"></a>
+        </td>
+    </tr>
     <tr>
         <th colspan="3">My Git States</th>
         <td>
