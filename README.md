@@ -127,14 +127,21 @@
             </a><br>
             <a href="https://github.com/ahzem#gh-dark-mode-only">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzem&theme=tokyonight" alt="My GitHub Stats"/>
-            </a>
-            <img src="https://github.com/Ahzem/Ahzem/assets/123859613/9521fa34-a2c8-4643-ade2-a53a804204fd">
+            </a><br>
+            <img width="150" height="150" src="https://github.com/Ahzem/Ahzem/assets/123859613/9521fa34-a2c8-4643-ade2-a53a804204fd">
+            <img width="150" height="150" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png">
+            <img width="150" height="150" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png">
         </td>
     </tr>
+    <th colspan="4">
+        Achievments
+    </th>
+    <tr>
+        <td colspan="4">
+        <a href="https://holopin.io/@ahzem"><img src="https://holopin.me/ahzem"></a>
+        </td>  
+    </tr>
 </table>
-
-[![An image of @ahzem's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahzem)](https://holopin.io/@ahzem)
-    
 <br><br>
 
 
