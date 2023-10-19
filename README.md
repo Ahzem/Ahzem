@@ -1,6 +1,9 @@
-# Hi there, I'm Ahzem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=56&duration=3000&pause=2000&color=FF0000&center=true&multiline=true&random=false&width=1440&height=80&lines=Hi%2C+I'm+Ahzem+👋" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=56&duration=3000&pause=2000&color=C0C0C0&center=true&multiline=true&random=false&width=1440&height=80&lines=The+Name+That+Rhymes+With+'Awesom'" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=56&duration=3000&pause=2000&color=077FFB&center=true&multiline=true&random=false&width=1440&height=80&lines=It%E2%80%99s+great+to+meet+you!+%F0%9F%A4%A9" alt="Typing SVG" /></a>
 
-<div align="center"><img src="https://github.com/Ahzem/Ahzem/assets/123859613/1efabbfd-9f49-4eb7-bf31-d72d04af27ca"></div>
+<img src="https://github.com/Ahzem/Ahzem/assets/123859613/1efabbfd-9f49-4eb7-bf31-d72d04af27ca"></div>
 
 ##  
 
