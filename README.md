@@ -133,6 +133,7 @@
             <a href="https://github.com/ahzem#gh-dark-mode-only">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzem&theme=tokyonight" alt="My GitHub Stats"/>
             </a><br>
+            <img width="150" height="150" src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg">
             <img width="150" height="150" src="https://github.com/Ahzem/Ahzem/assets/123859613/9521fa34-a2c8-4643-ade2-a53a804204fd">
             <img width="150" height="150" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png">
             <img width="150" height="150" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png">
