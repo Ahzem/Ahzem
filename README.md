@@ -117,42 +117,59 @@
 
 <table>
     <tr>
-        <td align="center" colspan="4">
-            <a href="https://github.com/ahzem/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahzem&theme=tokyonight&row=1&column=6"></a>
+        <td align="center" colspan="3">
+            <a href="https://github.com/ahzem/github-profile-trophy"><img width="800px" src="https://github-profile-trophy.vercel.app/?username=ahzem&theme=tokyonight&row=1&column=6"></a>
         </td>
     </tr>
     <tr>
-        <th colspan="3">My Git States</th>
+        <th rowspan="2">
+            My Git States
+        </th>
+        <td colspan="2">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahzem&theme=tokyonight" width="800px">
+        </td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/ahzem#gh-dark-mode-only">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahzem&theme=tokyonight"/>
+                <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ahzem&theme=tokyonight"/>
             </a>
             <a href="https://github.com/ahzem">
-                <img src="https://github-readme-stats.vercel.app/api?username=ahzem&theme=tokyonight" alt="My GitHub Stats"/>
-            </a><br>
-            <a href="https://github.com/ahzem#gh-dark-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzem&theme=tokyonight" alt="My GitHub Stats"/>
-            </a><br>
-            <img width="150" height="150" src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg">
-            <img width="150" height="150" src="https://github.githubassets.com/assets/profile-first-repo-dark-25579720acb4.svg">
-            <img width="150" height="150" src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg">
-            <img width="150" height="150" src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg"><br>
-            <img width="150" height="150" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png">
-            <img width="150" height="150" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png">
-        </td>
-    </tr>
-    <th colspan="4">
-        Achievments
-    </th>
-    <tr>
-        <td colspan="4">
-        <a href="https://holopin.io/@ahzem"><img src="https://holopin.me/ahzem"></a>
-        </td>  
-    </tr>
+                <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ahzem&theme=tokyonight" alt="My GitHub Stats"/>
+            </a>
+            <td>
+                <a href="https://github.com/ahzem#gh-dark-mode-only">
+                    <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahzem&theme=tokyonight" alt="My GitHub Stats"/>
+                </a>           
+            </td>
+        <tr>
+            <td align="center" colspan="3">
+	<a href="https://github.com/Ahzem"><img alt="Ahzem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahzem&custom_title=Ahzem's%20Contribution%20Graph&theme=react-dark" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" colspan="3">
+                <img width="150" height="150" src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg">
+                <img width="150" height="150" src="https://github.githubassets.com/assets/profile-first-repo-dark-25579720acb4.svg">
+                <img width="150" height="150" src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg">
+                <img width="150" height="150" src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg">        
+            </td>
+        </tr>
+        <tr>
+            <th colspan="3">Achievments</th>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <a href="https://holopin.io/@ahzem"><img src="https://holopin.me/ahzem"></a>   
+            </td>
+        </tr>
 </table>
+
+
 <br><br>
 
-
+<footer>
+    
 <p align="center">Follow me on ⬇️ </p>
 
 <div align="center">
@@ -168,6 +185,8 @@
     <a href="https://tree-nation.com/trees/view/5253803" target="_blank"><img width="48" height="48" src="https://growtrees.b-cdn.net/images/treenation3.png" alt="tree"/></a>
 </div>
 
+
+    
 <p align="center"> or connect with </p>
 
 <div align="center">
@@ -175,10 +194,13 @@
     <a href="https://t.me/mfm_ahzem" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="telegram-app--v1"/></a>
     <a href="https://stackoverflow.com/users/21335921/ahzem?tab=profile" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="stackoverflow"/></a>
 </div>
+<table align="center">
+    <tr>
+        <td>
+            <p align="center">Copyright © 2023; Ahzem</p>
+        </td>
+    </tr>
+    
+</table>
 
-
-<footer>
-                    <p align="center">Copyright © 2023; Ahzem</p>
 </footer>
-
-
