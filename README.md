@@ -309,7 +309,7 @@
                             <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="100px">
                         </td>
                         <td>
-                            <h3>HTML</h3>
+                            <h3>Python</h3>
                             <details>
                                 <summary>View Certificates</summary>
                                 <table border="1px">
