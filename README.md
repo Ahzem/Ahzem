@@ -22,7 +22,7 @@
     </tr>
 </table>
 
-<br><br>
+<hr>
 
 <table align="center">
     <tr>
@@ -40,6 +40,9 @@
         </td>
     </tr>
 </table>
+
+<hr> 
+
 <table align="center">
     <tr>
         <td colspan="2">
@@ -297,7 +300,6 @@
                 <tr>
                     <td>
                         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="100px"> 
-                        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="100px">
                     </td>
                     <td>
                         <h3>Git</h3>
@@ -365,7 +367,7 @@
                                     <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="100px">
                                 </td>
                                 <td>
-                                    <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" height="100px">
+                                    <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="100px">
                                 </td>
                             </tr>
                             <tr>
@@ -409,8 +411,7 @@
 </tr>
 </table>
 
-
-<br><br>
+<hr>
 
 <h1 align="center">Git Stats</h1>
 
