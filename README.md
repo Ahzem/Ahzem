@@ -497,7 +497,7 @@
 <table align="center">
     <tr>
         <td>
-            <p align="center">All Right Reserved; Copyright © 2023; Ahzem</p>
+            <p align="center">2024 Ahzem © All rights reserved.</p>
         </td>
     </tr>
     
