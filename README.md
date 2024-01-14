@@ -73,7 +73,11 @@
                                     <td>
                                         <h4>Busify</h4>
                                         <a href="https://github.com/Ahzem/Busify.git">View Project</a>
-                                    </td> 
+                                    </td>
+									<td>
+										<h4>FusionFeast</h4>
+										<a href="https://github.com/Ahzem/FusionFeast.git">View Project</a>
+									</td>
                                 </tr>
                             </table>
                         </details>
@@ -104,7 +108,11 @@
                                     <td>
                                         <h4>Busify</h4>
                                         <a href="https://github.com/Ahzem/Busify.git">View Project</a>
-                                    </td> 
+                                    </td>
+									<td>
+										<h4>FusionFeast</h4>
+										<a href="https://github.com/Ahzem/FusionFeast.git">View Project></a>
+									</td>
                                 </tr>
                             </table>
                         </details>
@@ -138,6 +146,10 @@
                                         <h4>Busify</h4>
                                         <a href="https://github.com/Ahzem/Busify.git">View Project</a>
                                     </td>
+									<td>
+										<h4>FusionFeast</h4>
+										<a href="https://github.com/Ahzem/FusionFeast.git">View Project></a>
+									</td>
                                 </tr>
                             </table>
                         </details>
@@ -268,10 +280,10 @@
                             <summary>View Project</summary>
                             <table border="1px">
                                 <tr>
-                                    <td>
-                                        <h4>Library Management</h4>
-                                        <a href="#">View Project</a>
-                                    </td>
+									<td>
+										<h4>FusionFeast</h4>
+										<a href="https://github.com/Ahzem/FusionFeast.git">View Project></a>
+									</td>
                                 </tr>
                             </table>
                         </details>
