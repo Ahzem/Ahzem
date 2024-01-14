@@ -52,7 +52,7 @@
             <table>
                 <tr>
                     <td>
-                        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="100px">
+                        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="100px" width="100px">
                     </td>
                     <td>
                         <h3>HTML</h3>
@@ -61,7 +61,7 @@
                             <table border="1px">
                                 <tr>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/f2ed8e83-2a0e-4539-b7f0-3d0560dc4df0" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/f2ed8e83-2a0e-4539-b7f0-3d0560dc4df0" width="267px" height="188px">
                                     </td>
                                 </tr>
                             </table>
@@ -84,7 +84,7 @@
                     </td>
 <!--0000000000000000000000000000000-->
                     <td>
-                        <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="100px">
+                        <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="100px" width="100px">
                     </td>
                     <td>
                         <h3>CSS</h3>
@@ -93,10 +93,10 @@
                             <table border="1px">
                                 <tr>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/410b0be4-288e-4477-9177-3be4e738cd7c" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/410b0be4-288e-4477-9177-3be4e738cd7c" width="267px" height="188px">
                                     </td>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/b0e21aa7-6269-4faa-8bda-2c5edde6b211" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/b0e21aa7-6269-4faa-8bda-2c5edde6b211" width="267px" height="188px">
                                     </td>
                                 </tr>
                             </table>
@@ -121,7 +121,7 @@
                 <!--one raw-->
                 <tr>
                     <td>
-                        <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="100px">
+                        <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="100px" width="100px">
                     </td>
                     <td>
                         <h3>JavaScript</h3>
@@ -130,10 +130,10 @@
                             <table border="1px">
                                 <tr>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/bbd978bd-1e6f-438d-bc1f-268ca7b84163" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/bbd978bd-1e6f-438d-bc1f-268ca7b84163" width="267px" height="188px">
                                     </td>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/cf997ba4-c3e7-4a75-bbd7-03f51d00b2d4" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/cf997ba4-c3e7-4a75-bbd7-03f51d00b2d4" width="267px" height="188px">
                                     </td>
                                 </tr>
                             </table>
@@ -156,7 +156,7 @@
                     </td>
 <!--000000000000000000000000000000000-->
                     <td>
-                        <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="100px">
+                        <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="100px" width="100px">
                     </td>
                     <td>
                         <h3>Python</h3>
@@ -165,19 +165,19 @@
                             <table border="1px">
                                 <tr>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/c9918bd3-7bca-4507-a5af-b6b8e60becae" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/c9918bd3-7bca-4507-a5af-b6b8e60becae" width="267px" height="188px">
                                     </td>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/472dbae6-fca7-4dc3-8769-c0b407e4df34" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/472dbae6-fca7-4dc3-8769-c0b407e4df34" width="267px" height="188px">
                                     </td>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/12c90710-f06d-43e4-ae56-d5cf12501b13" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/12c90710-f06d-43e4-ae56-d5cf12501b13" width="267px" height="188px">
                                     </td>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/77d956a8-cbaa-4ac7-b363-56846c4fa4e4" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/77d956a8-cbaa-4ac7-b363-56846c4fa4e4" width="267px" height="188px">
                                     </td>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/4cc06a43-4aef-4aef-899d-2bc3068835fc" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/4cc06a43-4aef-4aef-899d-2bc3068835fc" width="267px" height="188px">
                                     </td>
                                 </tr>
                             </table>
@@ -198,7 +198,7 @@
                 <!--one raw-->
                 <tr>
                     <td>
-                        <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" height="100px">
+                        <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" height="100px" width="100px">
                     </td>
                     <td>
                         <h3>Java</h3>
@@ -207,10 +207,10 @@
                             <table border="1px">
                                 <tr>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/e4593eb1-c17b-48aa-9ea3-967e10e6f392" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/e4593eb1-c17b-48aa-9ea3-967e10e6f392" width="267px" height="188px">
                                     </td>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/ade30f84-b5eb-4f99-bfb1-1b7b6b3efbb5" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/ade30f84-b5eb-4f99-bfb1-1b7b6b3efbb5" width="267px" height="188px">
                                     </td>
                                 </tr>
                             </table>
@@ -229,7 +229,7 @@
                     </td>
 <!--00000000000000000-->
                     <td>
-                        <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" height="100px">
+                        <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" height="100px" width="100px">
                     </td>
                     <td>
                         <h3>C</h3>
@@ -238,7 +238,7 @@
                             <table border="1px">
                                 <tr>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/83d3e977-4053-4731-b127-9f8f71290142" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/83d3e977-4053-4731-b127-9f8f71290142" width="267px" height="188px">
                                     </td>
                                 </tr>
                             </table>
@@ -259,7 +259,7 @@
                 <!--one raw-->
                 <tr>
                     <td>
-                        <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="100px">
+                        <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="100px" width="100px">
                     </td>
                     <td>
                         <h3>SQL</h3>
@@ -268,10 +268,10 @@
                             <table border="1px">
                                 <tr>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/8fe6d17c-296f-4135-8e90-80b621c67395" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/8fe6d17c-296f-4135-8e90-80b621c67395" width="267px" height="188px">
                                     </td>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/b9326cc7-2d9c-4c80-8b3c-adc31e3fed65" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/b9326cc7-2d9c-4c80-8b3c-adc31e3fed65" width="267px" height="188px">
                                     </td>
                                 </tr>
                             </table>
@@ -290,7 +290,7 @@
                     </td>
 <!--000000000000000000000000000-->
                     <td>
-                        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="100px">
+                        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="100px" width="100px">
                     </td>
                     <td>
                         <h3>Postman</h3>
@@ -299,7 +299,7 @@
                             <table border="1px">
                                 <tr>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/dcb858d1-4862-47b0-b227-82dabd66b787" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/dcb858d1-4862-47b0-b227-82dabd66b787" width="267px" height="188px">
                                     </td>
                                 </tr>
                             </table>
@@ -309,7 +309,7 @@
                 <!--one raw-->
                 <tr>
                     <td>
-                        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="100px"> 
+                        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="100px" width="100px"> 
                     </td>
                     <td>
                         <h3>Git</h3>
@@ -318,7 +318,7 @@
                             <table border="1px">
                                 <tr>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/7712a694-b462-42f2-a6a9-feee09280387" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/7712a694-b462-42f2-a6a9-feee09280387" width="267px" height="188px">
                                     </td>
                                 </tr>
                             </table>
@@ -326,7 +326,7 @@
                     </td>
 <!--0000000000000000000000-->
                     <td>
-                        <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" height="100px">
+                        <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" height="100px" width="100px">
                     </td>
                     <td>
                         <h3>Figma</h3>
@@ -335,7 +335,7 @@
                             <table border="1px">
                                 <tr>
                                     <td>
-                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/0c85946a-29cb-493f-b155-a6230f9c9453" height="200px">
+                                        <img src="https://github.com/Ahzem/Ahzem/assets/123859613/0c85946a-29cb-493f-b155-a6230f9c9453" width="267px" height="188px">
                                     </td>
                                 </tr>
                             </table>
@@ -362,42 +362,42 @@
                         <table align="center">
                             <tr>
                                 <td>
-                                    <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" height="100px">
+                                    <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" height="100px" width="100px">
                                 </td>
                                 <td>
-                                    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="100px">
+                                    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="100px" width="100px">
                                 </td>
                                 <td>
-                                    <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" height="100px">
+                                    <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" height="100px" width="100px">
                                 </td>
                                 <td>
-                                    <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="100px">
+                                    <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="100px" width="100px">
                                 </td>
                                 <td>
-                                    <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="100px">
+                                    <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="100px" width="100px">
                                 </td>
                                 <td>
-                                    <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="100px">
+                                    <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="100px" width="100px">
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" height="100px">
+                                    <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" height="100px" width="100px">
                                 </td>
                                 <td>
-                                    <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" height="100px">
+                                    <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" height="100px" width="100px">
                                 </td>
                                 <td>
-                                    <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" height="100px">
+                                    <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" height="100px" width="100px">
                                 </td>
                                 <td>
-                                    <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" height="100px">
+                                    <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" height="100px" width="100px">
                                 </td>
                                 <td>
-                                    <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" height="100px">
+                                    <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" height="100px" width="100px">
                                 </td>
                                 <td>
-                                    <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" height="100px">
+                                    <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" height="100px" width="100px">
                                 </td>
                             </tr>
                         </table>
